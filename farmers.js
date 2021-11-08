@@ -17,24 +17,7 @@ let farmerObject = {
  address: 'Nowhere Number 7',
 }
 
-let pigPrice = 120 * 11;
-let horsePrice = 250 * 13;
-let chickenPrice = 20 * 110;
+let objKeys = Object.keys(farmerObject); 
 
-let countPrice = pigPrice + horsePrice + chickenPrice;
-console.log(countPrice)
-
-let dogCount 
-let catCount
-
-if(dogCount < 0) {
-    console.log('The action was not performed');
-} else{
-    console.log(countPrice += dogCount)
-}
-
-
-function farmerFunction () {
-    let 
-}
+console.log(objKeys)
 

@@ -1,5 +1,5 @@
 var exampleString = 'example'
-console.log('example' + ' ' + exampleString);
+console.log('string' + ' ' + exampleString);
 console.log(exampleString + ' ' + 'string');
 
 var exampleBoolean = 'true';
